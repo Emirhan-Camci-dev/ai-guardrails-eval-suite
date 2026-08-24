@@ -39,7 +39,7 @@ RedGuard is distributed via an Open-Core model:
 
 ### 💼 Enterprise Subscription
 Designed for B2B Security Teams. Pricing ranges from **$1,200 – $4,800/year per seat/cluster**.
-Support open-source development and get the Proprietary tier securely via [Polar.sh](https://polar.sh/).
+Support open-source development and get the Proprietary tier securely via [Polar.sh](https://buy.polar.sh/polar_cl_0rj1GCYBwDCFPkJrjM9MmKaasexfe44nL36Ei0RF4Nm).
 
 ## ⚡ Performance Benchmark (<2ms Overhead)
 Built in Rust, RedGuard guarantees zero-copy token inspection ensuring strict adherence to PII compliance without sacrificing LLM time-to-first-token (TTFT). Memory-leak free and formally verified.
