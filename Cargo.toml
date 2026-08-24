@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "redguard-community",
+    "redguard-enterprise"
+]
+resolver = "2"
